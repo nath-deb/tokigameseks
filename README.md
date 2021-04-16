@@ -2,6 +2,7 @@
 This is a Project with Terraform, EKS Cluster Deployment and Web applicaton
 
 EKS Cluster Description:
+
 Terraform is used to create the cluster and all the TF files are placed in ./Infra folder
 -- Cluster having three workier nodes with different instance type
 -- Cluster is deployed with help of Terraform on AWS Cloud platform.
